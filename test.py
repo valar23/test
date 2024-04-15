@@ -1,1 +1,0 @@
-b = 'version 2'

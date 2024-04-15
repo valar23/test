@@ -1,1 +1,1 @@
-b = 'version 2'
+a = 'version 1'
